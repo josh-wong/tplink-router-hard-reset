@@ -36,7 +36,7 @@ copyright: Copyright &copy; 2016 - 2022 Martin Donath
 
 # Configuration
 theme:
-  name: null
+  name: material
   custom_dir: !ENV [THEME_DIR, "material"]
 
   # Static files
