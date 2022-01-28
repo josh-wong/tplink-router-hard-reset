@@ -18,7 +18,7 @@ You will be greeted with a screen stating that a firmware upgrade has failed.
 <img src="https://github.com/josh-wong/tplink-router-hard-reset/blob/main/images/tp-link_router_error_message.jpg?raw=true" style="zoom:50%;" />
 
 5. Unplug the ethernet cable from the router, then plug it into the modem. This will give you wired Internet access.
-6. As mentioned on the router error page in the previous screenshot, go to https://www.tp-link.com/us/support/download/.
+6. As mentioned on the router error page in the previous screenshot, go to [https://www.tp-link.com/us/support/download/](https://www.tp-link.com/us/support/download/).
 7. On the TP-Link download site, search for your router and go to the product's firmware download page.
 
 > **Note:** Make sure you go to the correct product page for the country specified on the router's label.
