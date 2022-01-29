@@ -5,9 +5,6 @@ theme:
 nav:
   - Overview: 'index.md'
   - Getting started: '01_getting-started.md'
-    - 'Prerequisites': '01_getting-started.md#prerequisites'
   - Instructions: '02_instructions.md'
   - Conclusion: '03_conclusion.md'
   - Feedback: '04_feedback.md'
-    - 'Report an issue': '04_feedback.md#report-an-issue'
-    - 'Donate': '04_feedback.md#donate'
