@@ -1,3 +1,10 @@
 site_name: How to perform a hard reset of a TP-Link Wi-Fi router
 theme:
   name: material
+
+nav:
+  - 'index.md'
+  - 'getting-started.md'
+  - 'instructions.md'
+  - 'conclusion.md'
+  - 'donations.md'

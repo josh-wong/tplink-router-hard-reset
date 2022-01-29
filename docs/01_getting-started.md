@@ -1,4 +1,4 @@
-# 1 - Getting started
+# Getting started
 Before you perform a hard reset on your TP-Link router, confirm that you do not have Wi-Fi connection on multiple devices. For example:
 
 - If only one device doesn't cannot connect to Wi-Fi, the problem may be based on the device instead of the router.

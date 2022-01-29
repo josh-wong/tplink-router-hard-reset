@@ -1,4 +1,4 @@
-# 2 - Instructions
+# Instructions
 After confirming you cannot connect to Wi-Fi on any devices that normally would connect to the router, please following the instructions below.
 
 > **Attention!:** Following the steps below will perform a hard reset your router to factory default settings. Even if you set the same Wi-Fi password during setup, you may need to manually connect your devices to Wi-Fi.
