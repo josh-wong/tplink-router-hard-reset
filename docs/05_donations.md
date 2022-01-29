@@ -1,11 +1,5 @@
-# Feedback
-Was this documentation helpful? Did parts of the documentation confuse you? Feel free to post about it in [Discussions](https://github.com/josh-wong/tplink-router-hard-reset/discussions) on GitHub!
-
-## Report an issue
-Does this documentation need to be clarified, updated, or otherwise improved upon? Please create an [issue](https://github.com/josh-wong/tplink-router-hard-reset/issues) on GitHub.
-
-## Donate
-Donations are greatly appreciated!
+# Donate
+Was this documentation helpful? If so, micro-donations are greatly appreciated!
 
 ### Bitcoin Cash (BCH)🟢
 
