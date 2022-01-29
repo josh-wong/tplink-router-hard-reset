@@ -3,8 +3,8 @@ theme:
   name: material
 
 nav:
-  - 'index.md'
-  - 'getting-started.md'
-  - 'instructions.md'
-  - 'conclusion.md'
-  - 'donations.md'
+  - Overview: 'index.md'
+  - Getting started: 'getting-started.md'
+  - Instructions: 'instructions.md'
+  - Conclusion: 'conclusion.md'
+  - Donate: 'donate.md'

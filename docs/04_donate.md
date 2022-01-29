@@ -1,4 +1,4 @@
-# Donations
+# Donate
 Did you find this documentation helpful? Let me know!💬
 
 Donations are greatly appreciated as well🙏
