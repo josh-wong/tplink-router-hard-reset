@@ -11,9 +11,11 @@ Create an <a class="github-button" href="https://github.com/josh-wong/tplink-rou
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 **Donations are greatly appreciated as well🙏**
+
 - Bitcoin Cash (BCH)🟢
 
 <img src="https://github.com/josh-wong/tplink-router-hard-reset/blob/main/images/bitcoin_cash_qr_code_github_tp-link_router_hard_reset_tutorial.png?raw=true" />
 
-- Ko-Fi☕ [josh_haha](https://ko-fi.com/josh_haha)
-- PayPal.me💰 [@tokyojosh](https://paypal.me/tokyojosh?country.x=JP&locale.x=en_US)
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C057FOD)
+- <!-- PayPal Logo --><a href="https://paypal.me/tokyojosh?country.x=JP&locale.x=en_US" title="How PayPal Works" onclick="javascript:window.open('https://paypal.me/tokyojosh?country.x=JP&locale.x=en_US','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" border="0" alt="PayPal Logo"><!-- PayPal Logo -->
+
