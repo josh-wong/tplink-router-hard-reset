@@ -4,7 +4,7 @@ theme:
 
 nav:
   - Overview: 'index.md'
-  - Getting started: 'getting-started.md'
-  - Instructions: 'instructions.md'
-  - Conclusion: 'conclusion.md'
-  - Donate: 'donate.md'
+  - Getting started: '01_getting-started.md'
+  - Instructions: '02_instructions.md'
+  - Conclusion: '03_conclusion.md'
+  - Donate: '04_donate.md'
