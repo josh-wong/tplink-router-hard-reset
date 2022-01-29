@@ -11,7 +11,7 @@
  <!-- Place this tag in your head or just before your close body tag. -->
  <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-## Find this helpful? Donations are greatly appreciated!
+## Donations
 Bitcoin Cash (BCH)🟢
 
 <img src="https://github.com/josh-wong/tplink-router-hard-reset/blob/main/images/bitcoin_cash_qr_code_github_tp-link_router_hard_reset_tutorial.png?raw=true" />
