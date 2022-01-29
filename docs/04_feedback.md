@@ -1,9 +1,12 @@
 # Feedback
-Did you find this documentation helpful? <a href="https://twitter.com/intent/tweet?screen_name=josh_in_japan&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @josh_in_japan</a>.
+**Did you find this documentation helpful?**
+<!-- Place this tag where you want the button to render. -->
+<a href="https://twitter.com/intent/tweet?screen_name=josh_in_japan&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @josh_in_japan</a>.
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Find an issue that needs fixing? Create an <a class="github-button" href="https://github.com/josh-wong/tplink-router-hard-reset/issues" data-icon="octicon-issue-opened" data-size="large" aria-label="Issue josh-wong/tplink-router-hard-reset on GitHub">Issue</a> on GitHub!
+**Find an issue that needs to be fixed?**
+Create an <a class="github-button" href="https://github.com/josh-wong/tplink-router-hard-reset/issues" data-icon="octicon-issue-opened" data-size="large" aria-label="Issue josh-wong/tplink-router-hard-reset on GitHub">Issue</a> on GitHub!
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
