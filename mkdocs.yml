@@ -1,4 +1,4 @@
-site_name: How to perform a hard reset of a TP-Link Wi-Fi router
+site_name: 📶How to perform a hard reset of a TP-Link Wi-Fi router
 theme:
   name: material
 
@@ -9,3 +9,4 @@ nav:
   - Conclusion: '03_conclusion.md'
   - Contributions: '04_contributions.md'
   - Donations: '05_donations.md'
+  - ⬅️return to josh-wong: 'https://josh-wong.github.io/'
