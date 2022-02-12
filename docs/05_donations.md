@@ -3,7 +3,7 @@ Was this documentation helpful? If so, micro-donations are greatly appreciated!
 
 ## Bitcoin Cash (BCH)🟢
 
-<img src="assets/images/bitcoin_cash_qr_code_github_tp-link_router_hard_reset_tutorial.png?raw=true" />
+![Bitcoin Cash QR code](https://github.com/josh-wong/tplink-router-hard-reset/blob/main/docs/assets/images/bitcoin_cash_qr_code_github_tp-link_router_hard_reset_tutorial.png?raw=true)
 
 ## Ko-fi☕
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C057FOD)
