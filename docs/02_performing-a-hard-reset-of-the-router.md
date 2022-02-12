@@ -15,7 +15,7 @@ You will be greeted with a screen stating that a firmware upgrade has failed.
 
 > **Note:** This is the default message. Even if your router didn't attempt to install a firmware upgrade, the same message will still be displayed.
 
-<img src="https://github.com/josh-wong/tplink-router-hard-reset/blob/main/images/tp-link_router_error_message.jpg?raw=true" />
+<img src="../assets/screenshots/tp-link_router_error_message.jpg?raw=true" />
 
 5. Unplug the ethernet cable from the router, then plug it into the modem. This will give you wired Internet access.
 6. As mentioned on the router error page in the previous screenshot, go to [https://www.tp-link.com/us/support/download/](https://www.tp-link.com/us/support/download/).
@@ -32,6 +32,6 @@ You will be greeted with a screen stating that a firmware upgrade has failed.
 11. Click **Upgrade**. Installing the firmware takes a few minutes. 
 12. After the router completes the firmware installation, you will be prompted to enter a new password. Enter a password and confirm the same password, then click **Let's Get Started**. The router will then instruct you on configuring the settings as you normally would on initial setup.
 
-<img src="https://github.com/josh-wong/tplink-router-hard-reset/blob/main/images/tp-link_router_password_confirmation.png?raw=true" />
+<img src="../assets/screenshots/tp-link_router_password_confirmation.png?raw=true" />
 
 If you are still experiencing connection issues after configuring the router, be sure to check the product manual to make sure you have configured all the necessary settings.
