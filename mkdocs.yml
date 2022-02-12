@@ -1,10 +1,18 @@
 site_name: How to perform a hard reset of a TP-Link Wi-Fi router
 site_url: https://josh-wong.github.io/zune-software-setup
 
+repo_name: josh-wong/tplink-router-hard-reset
+repo_url: https://github.com/josh-wong/tplink-router-hard-reset
+
+plugins:
+  - search
+
 theme:
   name: material
   favicon: assets/images/favicon.png
   logo: assets/images/mkdocs_tplink_router_logo.png
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
