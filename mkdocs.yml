@@ -9,6 +9,7 @@ repo_url: https://github.com/josh-wong/tplink-router-hard-reset
 # page button on both single docs sites and this multidocs site; doesn't seem 
 # to be a way to remove it from one site and keep it on the other
 edit_uri: edit/main/
+edit_uri: '?query=edit/main/docs/'
 
 plugins:
   - search
