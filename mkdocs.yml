@@ -3,7 +3,7 @@ site_url: https://josh-wong.github.io/zune-software-setup
 
 repo_name: josh-wong/tplink-router-hard-reset
 repo_url: https://github.com/josh-wong/tplink-router-hard-reset
-edit_uri: blob/main/docs/
+edit_uri: edit/main/docs/
 
 plugins:
   - search
