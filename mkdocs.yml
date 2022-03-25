@@ -5,7 +5,8 @@ repo_name: josh-wong/tplink-router-hard-reset
 repo_url: https://github.com/josh-wong/tplink-router-hard-reset
 # want to eventually hide the edit button since there's a conflict between editing the 
 # multirepo docs site and the individual docs site
-edit_uri: edit/main/
+edit_uri: edit/main/docs/
+edit_uri: ""
 
 plugins:
   - search
