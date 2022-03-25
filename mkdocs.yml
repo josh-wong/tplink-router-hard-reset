@@ -2,10 +2,10 @@ site_name: How to perform a hard reset of a TP-Link Wi-Fi router
 site_url: https://josh-wong.github.io/zune-software-setup
 
 repo_name: josh-wong/tplink-router-hard-reset
-repo_url: https://github.com/josh-wong/tplink-router-hard-reset
-# want to eventually hide the edit button since there's a conflict between editing the 
+repo_url: https://github.com/josh-wong/tplink-router-hard-reset/edit/main/docs
+# need to eventually hide the edit button since there's a conflict between editing the 
 # multirepo docs site and the individual docs site
-edit_uri: edit/main/
+edit_uri: ""
 
 plugins:
   - search
