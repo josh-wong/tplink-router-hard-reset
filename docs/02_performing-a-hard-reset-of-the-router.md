@@ -26,7 +26,7 @@ After confirming you cannot connect to Wi-Fi on any devices that normally would 
 
 7. On the TP-Link download site, search for your router and go to the product's firmware download page.
 
-> **Note:** Make sure you go to the correct product page for the country specified on the router's label.
+    > **Note:** Make sure you go to the correct product page for the country specified on the router's label.
 
 8. Download the firmware file to your computer. The firmware will be in a compressed .zip file.
 
