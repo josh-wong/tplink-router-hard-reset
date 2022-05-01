@@ -1,4 +1,5 @@
 # Contributions
+
 Does this documentation need to be clarified, updated, or otherwise improved upon? If so, pull requests are welcome! 
 
 Please do the following:

@@ -1,4 +1,5 @@
 # How to perform a hard reset of a TP-Link Wi-Fi router
+
 This tutorial describes how to perform a hard reset on a TP-Link Wi-Fi router. 
 
 Since performing a hard reset on a router may have serious negative effects on your network environment, these instructions should be considered only after you've exhausted other troubleshooting methods. 
