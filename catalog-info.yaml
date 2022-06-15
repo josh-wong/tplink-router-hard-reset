@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tplink-router-hard-reset
+  annotations:
+    github.com/project-slug: josh-wong/tplink-router-hard-reset
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
