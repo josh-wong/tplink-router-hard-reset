@@ -4,6 +4,7 @@ metadata:
   name: tplink-router-hard-reset
   annotations:
     github.com/project-slug: josh-wong/tplink-router-hard-reset
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
