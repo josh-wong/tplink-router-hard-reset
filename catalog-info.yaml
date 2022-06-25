@@ -4,7 +4,8 @@ metadata:
   name: tplink-router-hard-reset
   title: TP-Link router hard reset
   description: This tutorial describes how to perform a hard reset on a TP-Link Wi-Fi router. The router used in this case is a TP-Link Archer C80.
-  tags: Markdown
+  tags: 
+    - Markdown
   annotations:
     github.com/project-slug: josh-wong/tplink-router-hard-reset
     backstage.io/techdocs-ref: dir:.
