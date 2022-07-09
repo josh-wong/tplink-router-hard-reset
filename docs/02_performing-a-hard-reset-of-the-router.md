@@ -12,11 +12,15 @@ After confirming you cannot connect to Wi-Fi on any devices that normally would 
 
 4. Go to the default IP address for accessing the router. 
 
-    > **Note:** The IP address of TP-Link Wi-Fi routers tends to be http://192.168.0.1, but if that doesn't work, also try http://192.168.1.1 or https://tplinkwifi.net.
+    > **Note**
+    > 
+    > The IP address of TP-Link Wi-Fi routers tends to be http://192.168.0.1, but if that doesn't work, also try http://192.168.1.1 or https://tplinkwifi.net.
 
     You will be greeted with a screen stating that a firmware upgrade has failed.
 
-    > **Note:** This is the default message. Even if your router didn't attempt to install a firmware upgrade, the same message will still be displayed.
+    > **Note**
+    > 
+    > This is the default message. Even if your router didn't attempt to install a firmware upgrade, the same message will still be displayed.
 
     ![TP-Link router error message](https://github.com/josh-wong/tplink-router-hard-reset/blob/main/docs/assets/screenshots/tp-link_router_error_message.jpg?raw=true)
 
@@ -26,7 +30,9 @@ After confirming you cannot connect to Wi-Fi on any devices that normally would 
 
 7. On the TP-Link download site, search for your router and go to the product's firmware download page.
 
-    > **Note:** Make sure you go to the correct product page for the country specified on the router's label.
+    > **Note**
+    > 
+    > Make sure you go to the correct product page for the country specified on the router's label.
 
 8. Download the firmware file to your computer. The firmware will be in a compressed .zip file.
 
