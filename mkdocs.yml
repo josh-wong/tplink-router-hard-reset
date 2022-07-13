@@ -1,10 +1,10 @@
 site_name: How to perform a hard reset of a TP-Link Wi-Fi router
-site_url: https://josh-wong.github.io/tplink-router-hard-reset
+site_url: https://josh-wong.github.io/tplink-router-hard-reset/
 
 # Add repo details in the top right-hand corner
 repo_name: josh-wong/tplink-router-hard-reset
-repo_url: https://github.com/josh-wong/tplink-router-hard-reset
-edit_uri: blob/main/
+repo_url: https://github.com/josh-wong/tplink-router-hard-reset/
+edit_uri: blob/main/docs
 
 plugins:
   - search
