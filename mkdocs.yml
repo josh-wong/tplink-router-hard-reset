@@ -12,7 +12,6 @@ plugins:
   # Show the last updated date
   - git-revision-date-localized:
       type: date
-      enable_creation_date: true
   # Enable videos to be embedded
   - mkdocs-video:
       css_style:
