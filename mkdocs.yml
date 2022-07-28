@@ -10,8 +10,7 @@ plugins:
   - search
   - techdocs-core
   # Show the last updated date
-  - git-revision-date-localized:
-      type: date
+  - git-revision-date
   # Enable videos to be embedded
   - mkdocs-video:
       css_style:
