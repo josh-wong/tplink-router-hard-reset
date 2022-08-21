@@ -44,6 +44,6 @@ Click **Browse**, and go to the folder where the .bin file is located. Click the
 
 After the router completes the firmware installation, you will be prompted to enter a new password. Enter a password and confirm the same password, then click **Let's Get Started**. The router will then instruct you on configuring the settings as you normally would on initial setup.
 
-    ![TP-Link router password confirmation](https://github.com/josh-wong/tplink-router-hard-reset/blob/main/docs/assets/screenshots/tp-link_router_password_confirmation.png?raw=true)
+![TP-Link router password confirmation](https://github.com/josh-wong/tplink-router-hard-reset/blob/main/docs/assets/screenshots/tp-link_router_password_confirmation.png?raw=true)
 
 If you are still experiencing connection issues after configuring the router, be sure to check the product manual to make sure you have configured all the necessary settings.
