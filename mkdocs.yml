@@ -19,7 +19,7 @@ plugins:
         width: "100%"
         height: "300px"
   - git-committers:
-      repository: josh-wong/tplink-router-hard-reset
+      repository: squidfunk/mkdocs-material
       token: !ENV GH_TOKEN
 
 markdown_extensions:
