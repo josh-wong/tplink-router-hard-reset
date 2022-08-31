@@ -8,7 +8,7 @@ edit_uri: blob/main/docs
 
 plugins:
   - search
-  - techdocs-core
+  #- techdocs-core
   # Show the last updated date
   - git-revision-date-localized:
       type: date
@@ -17,6 +17,9 @@ plugins:
       css_style:
         width: "100%"
         height: "300px"
+  - git-committers:
+      repository: josh-wong/tplink-router-hard-reset
+      token: !ENV GH_TOKEN
 
 markdown_extensions:
   # Add styles for buttons
