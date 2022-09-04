@@ -18,8 +18,8 @@ plugins:
       css_style:
         width: "100%"
         height: "300px"
-  - git-committers:
-      repository: josh-wong/tplink-router-hard-reset
+  #- git-committers:
+  #    repository: josh-wong/tplink-router-hard-reset
 
 markdown_extensions:
   # Add styles for buttons
