@@ -1,5 +1,0 @@
-INHERIT: mkdocs.yml
-plugins:
-  - git-committers:
-      repository: josh-wong/tplink-router-hard-reset
-      token: !ENV GH_TOKEN
