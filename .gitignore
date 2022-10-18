@@ -1,4 +1,4 @@
-.github/workflows/ci_(non-Insiders).yml
 .cache/
-site/
 .vscode/
+overrides/main.html
+site/
