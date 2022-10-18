@@ -107,6 +107,8 @@ theme:
       primary: cyan
       accent: blue
   features:
+    # Mark announcement as read
+    - announce.dismiss
     # Add custom search functions
     - search.suggest
     - search.highlight
