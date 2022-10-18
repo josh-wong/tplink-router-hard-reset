@@ -1,10 +1,11 @@
 INHERIT: mkdocs.yml
 plugins:
   - search
-  # Show the last updated date
+  # Show docs contributors
   - git-committers:
       repository: josh-wong/tplink-router-hard-reset
       branch: main
+  # Show the last updated date
   - git-revision-date-localized:
       type: date
   - meta
