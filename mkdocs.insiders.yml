@@ -1,6 +1,12 @@
 INHERIT: mkdocs.yml
 plugins:
   - search
+  # Show the last updated date
+  - git-committers:
+      repository: josh-wong/tplink-router-hard-reset
+      branch: main
+  - git-revision-date-localized:
+      type: date
   - meta
   # Add RSS function
   - rss:
