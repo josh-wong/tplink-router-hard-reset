@@ -77,11 +77,11 @@ theme:
         name: Switch to light mode
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)" 
-      scheme: 080f53
+      scheme: default
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-      primary: blue
+      primary: blue grey
       accent: blue
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)" 
@@ -89,7 +89,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to system preference
-      primary: blue
+      primary: blue grey
       accent: blue
   features:
     # Mark announcement as read
